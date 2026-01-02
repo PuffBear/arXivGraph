@@ -1,0 +1,5 @@
+{
+  "name": "ArXivGraph: Research Discovery & Writing Tool",
+  "description": "An interactive related-work graph visualizer that uses Gemini to map academic papers, identify research clusters, and auto-generate literature review narratives.",
+  "requestFramePermissions": []
+}
